@@ -8,11 +8,8 @@ public class UseGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UseGitApplication.class, args);
-		/**
-		 * Sau đây là một vài câu lệnh java simple.
-		 */
-
 		calculate(5);
+		System.out.println("johnny dang");
 	}
 
 	public static void calculate(int number){
