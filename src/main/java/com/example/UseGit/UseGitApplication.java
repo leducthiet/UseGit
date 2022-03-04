@@ -8,6 +8,6 @@ public class UseGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UseGitApplication.class, args);
-		System.out.println("hom nay la ngay 4/3");
+		System.out.println("FBI FBIFBIFBIFBIFBIFBIFBIFBIFBIFBIFBIFBIFBI");
 	}
 }
