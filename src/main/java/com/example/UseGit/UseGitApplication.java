@@ -8,12 +8,12 @@ public class UseGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UseGitApplication.class, args);
-		calculate(5);
-		System.out.println("johnny dang");
+		calculate(10);
+		System.out.println("khoa pub");
 	}
 
 	public static void calculate(int number){
-		System.out.println(number * 2);
+		System.out.println(number * 3);
 	}
 
 }
