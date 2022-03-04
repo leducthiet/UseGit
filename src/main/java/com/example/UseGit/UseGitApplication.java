@@ -11,6 +11,12 @@ public class UseGitApplication {
 		/**
 		 * Sau đây là một vài câu lệnh java simple.
 		 */
+
+		calculate(5);
+	}
+
+	public static void calculate(int number){
+		System.out.println(number * 2);
 	}
 
 }
