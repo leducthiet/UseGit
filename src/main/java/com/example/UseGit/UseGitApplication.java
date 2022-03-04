@@ -10,6 +10,7 @@ public class UseGitApplication {
 		SpringApplication.run(UseGitApplication.class, args);
 		calculate(10);
 		System.out.println("khoa pub");
+		System.out.println("tao se update them nhieu thu");
 	}
 
 	public static void calculate(int number){
