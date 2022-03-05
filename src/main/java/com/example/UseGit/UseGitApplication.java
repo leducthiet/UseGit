@@ -10,6 +10,5 @@ public class UseGitApplication {
 		SpringApplication.run(UseGitApplication.class, args);
 		System.out.println("ITTOITTOITTOITTOITTOITTOITTO");
 		System.out.println("ITTOITTOITTOITTOITTOITTOITTO");
-		System.out.println("ITTOITTOITTOITTOITTOITTOITTO");
 	}
 }
