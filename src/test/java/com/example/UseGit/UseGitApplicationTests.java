@@ -8,6 +8,7 @@ class UseGitApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
